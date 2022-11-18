@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Hello+everyone%2C+my+name+is+Arseniy.;I+am+a+front-end+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&height=60&lines=+Hello+everyone%2C+my+name+is+Arseniy.;I+am+front-end+developer!)](https://git.io/typing-svg)
 
 <h2>🚀 My stack:</h2>
 
