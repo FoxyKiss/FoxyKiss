@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS]([https://img.shields.io/badge/-Tailwind.css-000?logo=Vue.js](https://img.shields.io/badge/-Tailwind.css-000?logo=tailwind-css))
 
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=babel)
