@@ -10,6 +10,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08
 
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=babel)
