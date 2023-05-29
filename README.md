@@ -29,6 +29,7 @@
 <h2>💻 My IDE:</h2>
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+![WebStorm](https://img.shields.io/badge/-webstorm-000?&logo=webstorm)
 
 <h2>🗿 My work apps:</h2>
 
