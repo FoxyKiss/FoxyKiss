@@ -6,11 +6,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)
 ![React](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?logo=Vue.js)
+![Vuex](https://img.shields.io/badge/-Vuex-000?logo=Vuex)
+
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind.css-000?logo=tailwind-css)
 
