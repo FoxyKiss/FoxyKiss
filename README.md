@@ -39,7 +39,7 @@
 <h2>🔵 My contacts:</h2>
 
 [![Telegram Badge](https://img.shields.io/badge/-Foxkiss-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/foxkiss1337)](https://t.me/foxkiss1337)
-[![Linkedin Badge](	https://img.shields.io/badge/-Arseniy_Polyakov-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=hhttps://https://www.linkedin.com/in/foxkiss98//)](https://www.linkedin.com/in/foxkiss98)
+
 
 <h2>🌠 My stats:</h2>
 
