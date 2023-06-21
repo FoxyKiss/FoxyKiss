@@ -26,6 +26,7 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-Github-000?&logo=github)
+![GitLab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab)
 
 <h2>💻 My IDE:</h2>
 
